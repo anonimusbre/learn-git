@@ -11,6 +11,9 @@ package com.learn.learninggit;
  */
 public class DummyClassTwo {
     
+    
+    private String dummy_string;
+    
         public DummyClassTwo() {
         System.out.println("Print From Dummy Class Two");
     }
