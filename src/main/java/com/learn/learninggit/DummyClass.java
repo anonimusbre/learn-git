@@ -11,8 +11,19 @@ package com.learn.learninggit;
  */
 public class DummyClass {
 
+    private String dummy_str;
+    
     public DummyClass() {
         System.out.println("Print From Dummy Class");
     }
+
+    public String getDummy_str() {
+        return dummy_str;
+    }
+
+    public void setDummy_str(String dummy_str) {
+        this.dummy_str = dummy_str;
+    }
+    
     
 }
