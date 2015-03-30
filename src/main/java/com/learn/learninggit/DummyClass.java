@@ -12,7 +12,7 @@ package com.learn.learninggit;
 public class DummyClass {
 
     private String dummy_str;
-    private String dummy_str_one;
+    
     public DummyClass() {
         System.out.println("Print From Dummy Class");
     }
