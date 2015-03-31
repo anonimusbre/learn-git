@@ -16,5 +16,6 @@ public class DummyClassTwo {
     
         public DummyClassTwo() {
         System.out.println("Print From Dummy Class Two");
+        System.out.println("Print From Dummy Class Two");
     }
 }
