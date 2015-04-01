@@ -16,4 +16,5 @@ public class App {
         System.out.println("Dummy app...");
         System.out.println("Rigging for diff...");
     }
+/* QA Rules! */
 }
