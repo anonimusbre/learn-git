@@ -12,7 +12,7 @@ package com.learn.learninggit;
 public class App {
     public static void main(String[] args)
     {
-	//Comment added via vim from command line
+	//Comment added via vim from command line...
         System.out.println("Dummy app...");
         System.out.println("Rigging for diff...");
     }
